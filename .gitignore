@@ -1,0 +1,12 @@
+# Environnement virtuel
+.venv/
+.venv
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Configs et données sensibles
+.env
+*.json
+*.mp4
